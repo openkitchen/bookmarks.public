@@ -1,0 +1,1 @@
+javascript:void (function(d) {var e = d.createElement('script');e.byebj=true;e.src = 'http://localhost:8080/Hello/gist.js?t='+((new Date()).valueOf());var b = d.getElementsByTagName('body')[0];b.firstChild ? b.insertBefore(e, b.firstChild) : b.appendChild(e);}(document));
